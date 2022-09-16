@@ -14,7 +14,7 @@ For this project the programming language ``` Python ``` along with the ```Pytho
 1. Pi camera (V1.3) x1
 1. Servo motors x2
 
-For a detailed bill of material refer to forlde [Docs]()
+For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
 
 
 
