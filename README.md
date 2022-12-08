@@ -25,7 +25,7 @@ This project was partly inspired by the new Insta360 Link 4K webcam which become
 
 Initial idea/sketch           |  Inspiration
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/112695184/191833284-2e627725-c3d1-44d6-a044-ef9256955328.png" width="700" ><h4 align="center"> A. Sketch (own work)</h4> |<img src="https://i.imgur.com/l4NTfpp.jpg" width="350" >  <h4 align="center"> A. A camera gimabal </h4> <img src="https://user-images.githubusercontent.com/112695184/191833070-161108ca-7df0-4cce-99eb-20ee3b9895b5.png" width="350" > <h4 align="center">B. The new 370$ insta 360 webcam</h4>                                  
+<img src="https://user-images.githubusercontent.com/112695184/191833284-2e627725-c3d1-44d6-a044-ef9256955328.png" width="700" ><h4 align="center"> A. Sketch (own work)</h4> |<img src="https://i.imgur.com/l4NTfpp.jpg" width="350" >  <h4 align="center"> A. A camera gimabal </h4> <img src="https://user-images.githubusercontent.com/112695184/191833070-161108ca-7df0-4cce-99eb-20ee3b9895b5.png" width="350" > <h4 align="center">B. The new 370$ Insta360 webcam</h4>                                  
 
 ## Programming languages and libraries used
 For this project the programming language ``` Python ``` along with the ```Python OpenCV library (Open Source Computer Vision Library)``` were used. OpenCV is one of the most used python libraries for computer vision applications. Furthermore, for face recognition  the ```Harcascade classifier``` was used. Harcascade is an open source Face recognition classifier which can be found on [Github](https://github.com/opencv/opencv/tree/master/data/haarcascades).
