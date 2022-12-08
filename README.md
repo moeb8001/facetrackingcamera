@@ -13,7 +13,7 @@ The code for PiCamera is written in Python and makes use of the OpenCV library a
 <!-- This device is a recording device which is able to recognize any face in front of it. Furthermore, in case of any movement this camera set-up makes use of two servo motors to rotate horizantally and vertically in order to to make sure the face of the person being recorded is always in the centre of the screen. The main components of this device are a Raspberry pi 4 (the brain of the device) and a pi camera (responsible for capturing footage). In addition to the Raspberry pi and the pi camera, this device consists of 2 servo motors which enable the camera to rotate in 2 different axis. The rotating servo motors are the main elements allowing the camera to have a wider view compared to a stationary camer. It is this feature which allows it to follow the face as it moves. -->
 
 ## Inspiration
-This project was partly inspired by the new Insta360 Link 4K webcam which become super popular because of its ability to rotate and follow faces. It is also able to rotate and record your desk. The main downside of this device is its price. This product comes at a price of 380$ - 400$, which is very unaffordable for most, and in my opinion no webcam is really worth this much money. This project aims at making an affordable, fully functional version of this camera. For the picture of the aformentioned device refer to the picture here.Below a rough idea of the mechanism whihc enabled the camera to rotate about 2 axis was sketched. The idea was inspired by normal gimbals used for cameras.
+This project was partly inspired by the new Insta360 Link 4K webcam which become super popular because of its ability to rotate and follow faces. The main downside of this device is its price. This product comes at a price of 380$ - 400$, which is very unaffordable for most. In my opinion no webcam is really worth this amount of money. This project aims at making an affordable, fully functional version of this camera. Below the intitial rough idea of the mechanism which enabled the camera to rotate about 2 axis was sketched by me can be seen. The idea was inspired by normal gimbals used for cameras. Additionally, the picture of Insta360 webcam, which was the main inspiration for this project can be seen on the right.
 <!--- |![Initial sketch](https://i.imgur.com/MkXis10.jpg =x300)|
 |:--:| 
 | Initial idea/sketch |
@@ -51,6 +51,15 @@ To get started with PiCamera, you will need the following:
 - A breadboard and jumper wires
 
 For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
+
+**Main Requirements**
+You will also need to install the following software on your Raspberry Pi:
+
+The Python programming language
+The OpenCV library
+The Haarcascade
+You can find instructions for how to install these online
+
 
 **Overview of steps taken**
 
