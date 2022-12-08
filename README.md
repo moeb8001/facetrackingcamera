@@ -46,10 +46,10 @@ For this project the programming language ``` Python ``` along with the ```Pytho
 ### Getting Started
 To get started with PiCamera, you will need the following:
 
-## Main Components
-#A Raspberry Pi with a camera module
-#A servo motor
-#A breadboard and jumper wires
+# Main Components
+# A Raspberry Pi with a camera module
+# A servo motor
+# A breadboard and jumper wires
 
 
 For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
