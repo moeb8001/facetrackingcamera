@@ -39,12 +39,7 @@ For this project the programming language ``` Python ``` along with the ```Pytho
 #Compact design: the PiCamera is small and lightweight, making it easy to integrate into your projects. You can easily mount it on a tripod or attach it to your Raspberry Pi using a servo motor.
 
 
-### Main Components:
-1. Raspberry pi 4 x1
-1. Pi camera (V1.3) x1
-1. Servo motors x2
 
-For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
 
 
 
@@ -52,9 +47,14 @@ For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://gi
 ### Getting Started
 To get started with PiCamera, you will need the following:
 
-A Raspberry Pi with a camera module
-A servo motor
-A breadboard and jumper wires
+## Main Components
+#A Raspberry Pi with a camera module
+#A servo motor
+#A breadboard and jumper wires
+
+
+For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
+
 First, you will need to connect the servo motor to your Raspberry Pi using the breadboard and jumper wires. You can find instructions for how to do this online, or you can refer to the instructions included with your servo motor.
 
 Next, you will need to install the required software on your Raspberry Pi. This includes the Python programming language, the OpenCV library, and the Haarcascade. You can find instructions for how to install these online, or you can refer to the instructions included with your servo motor.
