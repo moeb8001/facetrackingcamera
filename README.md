@@ -33,13 +33,13 @@ For this project the programming language ``` Python ``` along with the ```Pytho
 
 
 ### Features
-# Easy to set up: with just a few simple steps, you can get your PiCamera up and running and start tracking your face.
+- Easy to set up: with just a few simple steps, you can get your PiCamera up and running and start tracking your face.
 
-# Flexible: you can customize the code to suit your needs and add additional features. For example, you can adjust the sensitivity of the facial detection, or you can add support for multiple faces.
+- Flexible: you can customize the code to suit your needs and add additional features. For example, you can adjust the sensitivity of the facial detection, or you can add support for multiple faces.
 
-# Open-source: the code for PiCamera is available on GitHub, so you can download it, modify it, and share it with others. This allows the community to collaborate and improve the project, making it even more useful and powerful. 
+- Open-source: the code for PiCamera is available on GitHub, so you can download it, modify it, and share it with others. This allows the community to collaborate and improve the project, making it even more useful and powerful. 
 
-# Compact design: the PiCamera is small and lightweight, making it easy to integrate into your projects. You can easily mount it on a tripod or attach it to your Raspberry Pi using a servo motor.
+- Compact design: the PiCamera is small and lightweight, making it easy to integrate into your projects. You can easily mount it on a tripod or attach it to your Raspberry Pi using a servo motor.
 
 
 
