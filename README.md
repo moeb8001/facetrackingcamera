@@ -35,8 +35,7 @@ First a rough idea of the mechanism whihc enabled the camera to rotate about 2 a
 
 Initial idea/sketch             |  Inspiration (A. A camera gimabal B. The new 370$ insta 360 webcam)
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/112695184/191833284-2e627725-c3d1-44d6-a044-ef9256955328.png)  |  ![](https://i.imgur.com/l4NTfpp.jpg)
-  [ empty ] | ![image](https://user-images.githubusercontent.com/112695184/191833070-161108ca-7df0-4cce-99eb-20ee3b9895b5.png)
+![image](https://user-images.githubusercontent.com/112695184/191833284-2e627725-c3d1-44d6-a044-ef9256955328.png)  |  ![](https://i.imgur.com/l4NTfpp.jpg) ![image](https://user-images.githubusercontent.com/112695184/191833070-161108ca-7df0-4cce-99eb-20ee3b9895b5.png)
 
 
 
