@@ -6,7 +6,7 @@ Personal project (Open Hardware Academy 2022)
  
 PiCamera is an open-source project that allows you to connect a Raspberry Pi camera to a Raspberry Pi and use servo motors to move the camera and track your face. This project was inspired by the Insta360 webcam and allows you to easily add facial tracking to your Raspberry Pi projects.
 
-The Insta360 webcam is a popular device that allows you to easily capture and share 360-degree video. It features a compact design and advanced technology that makes it easy to use, even for beginners. When we saw the Insta360 webcam, we were inspired to create a similar device using a Raspberry Pi and servo motors.
+The idea of making such device was inspired by the new Insta360 webcam. The Insta360 webcam is a popular device that allows you to easily capture and share 360-degree video. It features a compact design and advanced technology that makes it easy to use, even for beginners. When I saw the Insta360 webcam, I was inspired to create a similar device using a Raspberry Pi and servo motors.
 
 The code for PiCamera is written in Python and makes use of the OpenCV library and Haarcascade to detect and track faces. With just a few simple steps, you can get your PiCamera up and running and start tracking your face.
 
