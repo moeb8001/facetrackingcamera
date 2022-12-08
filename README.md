@@ -46,7 +46,7 @@ For this project the programming language ``` Python ``` along with the ```Pytho
 ### Getting Started
 To get started with PiCamera, you will need the following:
 
-** Main Components **
+**Main Components **
 - A Raspberry Pi with a camera module
 - A servo motor
 - A breadboard and jumper wires
