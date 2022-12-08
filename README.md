@@ -51,7 +51,7 @@ To get started with PiCamera, you will need the following:
 - A servo motor
 - A breadboard and jumper wires
 
-
+**Overview of steps taken**
 For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
 
 First, you will need to connect the servo motor to your Raspberry Pi using the breadboard and jumper wires. You can find instructions for how to do this online, or you can refer to the instructions included with your servo motor.
