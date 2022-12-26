@@ -55,10 +55,10 @@ For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://gi
 **Main Requirements**
 You will also need to install the following software on your Raspberry Pi:
 
--The Python programming language
--The OpenCV library
--The Haarcascade
--You can find instructions for how to install these online
+- The Python programming language
+- The OpenCV library
+- The Haarcascade
+- You can find instructions for how to install these online
 
 
 **Overview of steps taken**
