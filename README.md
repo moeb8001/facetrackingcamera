@@ -52,8 +52,9 @@ To get started with PiCamera, you will need the following:
 
 For a detailed bill of material refer to the [Bill_Of_Materials.xlsx](https://github.com/moeb8001/facetrackingcamera/blob/main/Bill_Of_Materials.xlsx) in the Repository.
 
-**Main Requirements**
-  You will also need to install the following software on your Raspberry Pi:
+**Main Requirements**  
+
+You will also need to install the following software on your Raspberry Pi:
 
 - The Python programming language
 - The OpenCV library
