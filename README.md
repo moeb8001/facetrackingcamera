@@ -1,6 +1,6 @@
 # **Face tracking camera**
 (not done, not all files have been uploaded)
-Personal project (Open Hardware Academy 2022)
+<!-- ## **Personal project (Open Hardware Academy 2022)** -->
 <!-- ## **Introduction** -->
  ## Description of the project  
  
